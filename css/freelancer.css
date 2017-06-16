@@ -517,3 +517,8 @@ fieldset[disabled] .btn-success.active {
 div#maincontent {
   outline: none;
 }
+.contactForm {
+  list-style-type: none;
+  padding: .5em;
+  text-align: center;
+}
